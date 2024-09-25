@@ -1,0 +1,27 @@
+* {font-family: Garamond}
+
+* {text-align: center;} 
+
+body {margin: auto; 
+	max-width: 
+	600px; 
+	background-color: yellowgreen;
+ padding: 40px;
+margin-top: 40px;}
+
+div.maintext {background-color: whitesmoke;}
+
+div.subhead {font-weight: bold;} 
+
+div.subhead {
+  font-style: italic;
+}
+
+div.experience {text-align:center;}
+
+div.skills {text-align:center;}
+
+
+h2 {text-decoration: underline;}
+h3 {text-decoration: underline;}
+h4 {text-decoration: underline;}
